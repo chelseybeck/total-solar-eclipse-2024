@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Total Solar Eclipse](/assets/images/total-solar-eclipse-2024.webp)
+![Total Solar Eclipse](/assets/images/total-solar-eclipse-2024.webp "Landscape photo of a horizon and sunset, with an orange-yellow sky. The moon is covering the sun, but ligth peeks through")
 *Photo Credit: Diane Miller/Getty Images*
 
 # Experience History
