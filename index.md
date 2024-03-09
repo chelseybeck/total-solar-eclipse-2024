@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 ![Total Solar Eclipse](/assets/images/total-solar-eclipse-2024.webp)
+*Photo Credit: Diane Miller/Getty Images*
 
 # Experience History
 
