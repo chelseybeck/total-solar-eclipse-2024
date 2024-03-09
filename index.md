@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
-header_image: _assets/total-solar-eclipse-2024.jpg
 ---
+![Branching](/assets/images/total-solar-eclipse-2017.jpg)
 
 # Experience History
 
