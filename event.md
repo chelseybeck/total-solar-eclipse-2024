@@ -18,4 +18,4 @@ Umbra: Arrives 3:06PM EST. (Duration 3 min., 29 sec.)
 
 ...
 
-[Back to Home](/)
+[Back to Home](/total-solar-eclipse-2024)
