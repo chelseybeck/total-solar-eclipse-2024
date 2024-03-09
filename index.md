@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-header_image: /_assets/total-solar-eclipse-2024.jpg
+header_image: _assets/total-solar-eclipse-2024.jpg
 ---
 
 # Experience History
