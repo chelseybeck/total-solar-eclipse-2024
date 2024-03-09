@@ -1,1 +1,0 @@
-# total-solar-eclipse-2024
