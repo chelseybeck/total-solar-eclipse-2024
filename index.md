@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Branching](/assets/images/total-solar-eclipse-2017.jpg)
+![Total Solar Eclipse](/assets/images/total-solar-eclipse-2024.webp)
 
 # Experience History
 
